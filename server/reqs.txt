@@ -1,0 +1,4 @@
+peewee
+playhouse
+uvicorn
+fastapi
