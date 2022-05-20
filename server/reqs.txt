@@ -1,4 +1,5 @@
 peewee
-playhouse
 uvicorn
 fastapi
+psycopg2
+pyqiwip2p
